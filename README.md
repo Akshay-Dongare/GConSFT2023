@@ -5,4 +5,4 @@ I presented a paper at the Global Conference on Sustainable and Futuristic Techn
 # Paper
 `./paper/Research_Paper_GConSFT-2023.pdf`
 # Presentation
-`./presentation/`
+`./presentation/paper-id-165.pdf`
